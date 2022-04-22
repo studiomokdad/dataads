@@ -3,7 +3,7 @@
 
 		"AdsController": {
 
-			"NetworkAds": "unity",
+			"NetworkAds": "facebook",
 
 			"BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
 			"InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
@@ -13,7 +13,6 @@
 			
 			"unityGameID": "4668279",
 			"UnityPlacement": "Interstitial_Android",
-            "UnityPlacement": "Banner_Android",
 
 			"StartappAds": "211203742",
 
